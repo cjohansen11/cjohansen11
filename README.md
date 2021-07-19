@@ -20,7 +20,7 @@
 [Solidity](https://img.shields.io/badge/Solidity-%20-blue)
 [Truffle & Ganache](https://img.shields.io/badge/Truffle%20%26%20Ganache-%20-orange)
 [web3.js](https://img.shields.io/badge/web3.js-%20-lightgrey)
-https://img.shields.io/badge/web3.js-%20-lightgrey
+(https://img.shields.io/badge/web3.js-%20-lightgrey)
 
 ![Node](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20-%23404d59.svg?&style=flat-square)
