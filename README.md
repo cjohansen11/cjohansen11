@@ -17,9 +17,9 @@
 ![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white)
-[Solidity](https://img.shields.io/badge/Solidity-%20-blue)
-[Truffle & Ganache](https://img.shields.io/badge/Truffle%20%26%20Ganache-%20-orange)
-[web3.js](https://img.shields.io/badge/web3.js-%20-lightgrey)
+[Solidity](https://img.shields.io/badge/Solidity-%20-blue?&style=flat-square)
+[Truffle & Ganache](https://img.shields.io/badge/Truffle%20%26%20Ganache-%20-orange?&style=flat-square)
+[web3.js](https://img.shields.io/badge/web3.js-%20-lightgrey?&style=flat-square)
 
 
 ![Node](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
