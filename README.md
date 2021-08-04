@@ -1,7 +1,7 @@
 ### 👋 Hi there! I'm Christian
 
 - 🔭 I’m currently working on various Full Stack applications and Blockchain projects.
-- 🌱 I’m currently learning Typescript, Solidity, and increasing my knowledge of various database systems.
+- 🌱 I’m currently learning Golang, Typescript, Solidity, and increasing my knowledge of various database systems.
 - 💬 Ask me about anything!
 - 😄 Pronouns: he/him/his
 
