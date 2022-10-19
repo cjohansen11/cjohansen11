@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Christian
 
-- 🔭 Full Stack Engineer building out the future of NFT marketplaces
+- 🔭 Full Stack Engineer building great user experiences
 - 🌱 I’m currently learning Golang and Vue
 - 😄 Pronouns: he/him/his
 
