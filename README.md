@@ -1,7 +1,7 @@
 ### 👋 Hi there! I'm Christian
 
 - 🔭 Full Stack Engineer building out the future of NFT marketplaces
-- 🌱 I’m currently learning Golang and generative art with P5js
+- 🌱 I’m currently learning Golang and Vue
 - 😄 Pronouns: he/him/his
 
 ### Contact Me
