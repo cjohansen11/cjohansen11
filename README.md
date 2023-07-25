@@ -1,7 +1,7 @@
 ### 👋 Hi there! I'm Christian
 
 - 🔭 Full Stack Engineer building great user experiences
-- 🌱 I’m currently learning Golang and Svelte
+- 🌱 I’m currently learning Golang, Python, AWS Developer Cert, and Svelte
 - 😄 Pronouns: he/him/his
 
 ### Contact Me
