@@ -2,7 +2,7 @@
 
 - 🔭 Full Stack Engineer building great user experiences
 - 🌱 I’m currently learning Golang, Python, AWS Developer Cert, and Svelte
-- 😄 Pronouns: he/him/his
+- 🔊 Pronouns: he/him/his
 
 ### Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/christian-johansen11//)](https://www.linkedin.com/in/christian-johansen11/)
