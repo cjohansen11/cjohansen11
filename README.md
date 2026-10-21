@@ -1,7 +1,7 @@
 ### 👋 Hi there! I'm Christian
 
 - 🔭 Full Stack Engineer building great user experiences
-- 🌱 I’m currently learning Golang, Python, AWS Developer Cert, and Svelte
+- 🌱 I’m currently building and leading at Solace Health
 - 🔊 Pronouns: he/him/his
 
 ### Contact Me
